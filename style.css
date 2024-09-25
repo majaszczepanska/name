@@ -11,8 +11,9 @@
     height: 10vh;
     background-color: rgb(185, 137, 204);
     color: #5e0f6e;
-    font: 100px Georgia;
+    font: 60px Georgia;
     text-shadow: rgb(132, 32, 190) 4px 4px 8px;
     border:thick double rgb(62, 5, 138);
     letter-spacing: 40px;
+    overflow: hidden;
 }
